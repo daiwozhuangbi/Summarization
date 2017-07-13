@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/study/eclipse/jar/libglpk-java-1.8.0/swig/glpk-java.jar"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/study/eclipse/jar/libglpk-java-1.8.0/swig/.libs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/study/eclipse/jar/ansj_seg-5.0.2-all-in-one.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/args4j-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/ik-analyzer-solr5-5.x.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/libglpk-java-1.8.0/swig/glpk-java.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/weka.jar" sourcepath="/study/eclipse/jar/weka-src.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/jgibblda.jar" sourcepath="/JGibbLDAOriginal"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/javailp-1.2a.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/stanford-chinese-corenlp-2017-06-09-models.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
